@@ -31,8 +31,7 @@ The ANN was trained for 100 epochs. Training and validation accuracy stabilized 
 ## 🛠️ Tech Stack  
 
 - TensorFlow / Keras – ANN model  
-- Pandas, NumPy, Scikit-learn – Data preprocessing  
-- Matplotlib / Seaborn – Visualization  
+- Pandas, NumPy, Scikit-learn – Data preprocessing    
 - Streamlit – Deployment  
 
 ---
